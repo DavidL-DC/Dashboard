@@ -83,6 +83,10 @@ projektordner/
 ---
 
 ## Nutzung
+Da dieses Projekt noch ausschließlich als Prototyp und zu Testzwecken dient, sind die aktuellen Funktionen auf das Aufrufen des Dashboards und das Einsehen der Inhalte beschränkt. Demzufolge sind Funktionen, wie das Starten eines neuen Kurses, noch nicht in der Hauptdatei etabliert.
+Die Hauptdatei 'Dashboard.py' öffnet das Gui, welches aktuelle Daten, die in 'Beispieldaten.py' definiert sind, anzeigt.
+Die Inhalte 'Dauer vergangener Kurse', 'Ausstehende Bewertungen' und 'Notenübersicht' lassen sich mit einer Scrollbar bedienen. Das Modifizieren der Fenstergröße und damit einhergehend ein Vollbildmodus sind noch nicht vorgesehen.
+Neue Daten wie Noten, Kurse oder dessen Status lassen sich in 'Beispieldaten.py' hinzufügen oder modifizieren.
 
 ---
 
