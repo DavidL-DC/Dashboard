@@ -88,6 +88,7 @@ projektordner/
 
 ## Lizenz
 Dieses Projekt ist nur für Bildungszwecke gedacht und darf nicht für kommerzielle oder produktive Zwecke verwendet werden.
+Mehr Informationen in der LICENSE.md.
 
 ---
 
