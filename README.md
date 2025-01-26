@@ -10,13 +10,86 @@ Aktuell dient dieses Projekt ausschließlich einem Leistungsnachweis und wird zu
 
 ### Voraussetzungen
 1. **Python installieren:**  
-   Stelle sicher, dass Python (mindestens Version 3.8) auf deinem Computer installiert ist.  
+   Stelle sicher, dass Python (mindestens Version 3.13) auf deinem Computer installiert ist.  
    - [Python herunterladen](https://www.python.org/downloads/)  
    - Überprüfen, ob Python korrekt installiert ist:  
      ```bash
      python --version
      ```
-  
+
+2. **Pip installieren:**
+   Pip sollte bereits mit Python installiert sein. Überprüfe es mit:
+   ```bash
+   pip --version
+   ```
+
+---
+
+### Installationsschritte
+
+1. **Projekt herunterladen:**  
+   Lade das Projekt von GitHub herunter:  
+   [GitHub-Link einfügen]
+
+   Alternativ kannst du das Projekt direkt mit Git klonen:  
+   ```bash
+   git clone [GitHub-Link einfügen]
+   cd projektordner
+   ```
+
+2. **Virtuelle Umgebung erstellen (empfohlen):**  
+   Erstelle eine virtuelle Umgebung, um Abhängigkeiten zu isolieren:  
+   ```bash
+   python -m venv venv
+   source venv/bin/activate      # Linux/Mac
+   venv\Scripts\activate         # Windows
+   ```
+
+3. **Abhängigkeiten installieren:**  
+   Installiere die benötigten Bibliotheken mit `requirements.txt`:  
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+4. **Schriftarten sicherstellen:**  
+   Achte darauf, dass die Schriftarten `Quicksand-Medium.ttf` und `Quicksand-Regular.ttf` im gleichen Ordner wie die Python-Dateien liegen. Diese werden automatisch geladen.
+
+5. **Programm starten:**  
+   Starte das Dashboard:  
+   ```bash
+   python Dashboard.py
+   ```
+
+---
+
+## Projektstruktur
+
+```
+projektordner/
+├── Quicksand-Medium.ttf
+├── Quicksand-Regular.ttf
+├── Beispieldaten.py
+├── Dashboard.py
+├── Kurs.py
+├── Modul.py
+├── Semester.py
+├── Student.py
+├── Studienelement.py
+├── Studiengang.py
+├── Ziel.py
+├── requirements.txt
+```
+
+---
+
+## Lizenz
+Dieses Projekt ist nur für Bildungszwecke gedacht und darf nicht für kommerzielle oder produktive Zwecke verwendet werden.
+
+---
+
+## Kontakt
+Falls es Fragen gibt, kontaktieren Sie mich unter: [Deine E-Mail-Adresse einfügen].
+
 ## Nutzung
 
 ## Beitragende
