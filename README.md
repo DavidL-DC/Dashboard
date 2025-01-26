@@ -82,15 +82,19 @@ projektordner/
 
 ---
 
+## Nutzung
+
+---
+
 ## Lizenz
 Dieses Projekt ist nur für Bildungszwecke gedacht und darf nicht für kommerzielle oder produktive Zwecke verwendet werden.
 
 ---
 
 ## Kontakt
-Falls es Fragen gibt, kontaktieren Sie mich unter: [Deine E-Mail-Adresse einfügen].
+Falls es Fragen gibt, kontaktieren Sie mich unter der an der Hochschule hinterlegten E-Mail.
 
-## Nutzung
+---
 
 ## Beitragende
 - David Lohmann (https://github.com/DavidL-DC)
