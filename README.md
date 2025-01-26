@@ -29,11 +29,11 @@ Aktuell dient dieses Projekt ausschließlich einem Leistungsnachweis und wird zu
 
 1. **Projekt herunterladen:**  
    Lade das Projekt von GitHub herunter:  
-   [GitHub-Link einfügen]
+   https://github.com/DavidL-DC/Dashboard
 
    Alternativ kannst du das Projekt direkt mit Git klonen:  
    ```bash
-   git clone [GitHub-Link einfügen]
+   git clone https://github.com/DavidL-DC/Dashboard
    cd projektordner
    ```
 
