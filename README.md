@@ -8,7 +8,16 @@ Aktuell dient dieses Projekt ausschließlich einem Leistungsnachweis und wird zu
 
 ## Installation
 
+### Voraussetzungen
+1. **Python installieren:**  
+   Stelle sicher, dass Python (mindestens Version 3.8) auf deinem Computer installiert ist.  
+   - [Python herunterladen](https://www.python.org/downloads/)  
+   - Überprüfen, ob Python korrekt installiert ist:  
+     ```bash
+     python --version
+     ```
+  
 ## Nutzung
 
 ## Beitragende
-- David Lohmann (
+- David Lohmann (https://github.com/DavidL-DC)
